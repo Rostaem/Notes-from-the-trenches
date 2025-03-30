@@ -1,0 +1,32 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "TO_jKgC-9cbxNzxt42ebw",
+      "name": "classis neon blue",
+      "value": "#00fffb"
+    },
+    {
+      "id": "CM80Ha0FP7FHKwMrpnKHr",
+      "name": "neon green ",
+      "value": "#37ff00"
+    },
+    {
+      "id": "JRpwGVa-bN6yjVlGnGAFh",
+      "name": "neon yellow",
+      "value": "#fff700"
+    },
+    {
+      "id": "681JQS6HA8hNHlCZmZP3c",
+      "name": "neon purple",
+      "value": "#ff1acd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "remoteBlog",
+      "color": "JRpwGVa-bN6yjVlGnGAFh"
+    }
+  ]
+}

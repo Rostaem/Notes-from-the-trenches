@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@text-normal@@dark": "#00FFF3",
+  "blue-topaz-theme@@interactive-accent@@dark": "#F800FF",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": true,
+  "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-grid-notebook-1",
+  "blue-topaz-theme@@toggle-split-note-background": false,
+  "blue-topaz-theme@@bg-color-notebook@@light": "#FFFFFF",
+  "blue-topaz-theme@@bg-color-notebook@@dark": "#F7CBCB"
+}

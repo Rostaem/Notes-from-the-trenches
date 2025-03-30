@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "12ad3ef93104e467",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb9cce77dcbae99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad73944ff466cd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBlog/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "496d90efbe089f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7853c96a2b78d81c",
+        "type": "tabs",
+        "dimension": 66.09498680738787,
+        "children": [
+          {
+            "id": "51f5245e6a8bd557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "917c7f1547ef19b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2de623782690295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d234a9559a985c4",
+        "type": "tabs",
+        "dimension": 33.90501319261214,
+        "children": [
+          {
+            "id": "71332f389ff0db9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "9516677d4641167c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca7b99826c50ee08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d07203716d377c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remoteBlog/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "986bb6cf6a6367aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remoteBlog/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "27c3b167cc78ba01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a4e79dd8d71d4ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remoteBlog/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "a808c3e33f90e035",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "e381ecc899e02314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fdc7d85024a2fc8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "ad73944ff466cd64",
+  "lastOpenFiles": [
+    "remoteBlog/example C++.md",
+    "Markdown Cheatsheet.md",
+    "README.md",
+    "Welcome.md",
+    "2025-03-29.md",
+    "remoteBlog/README.md",
+    "remoteBlog/remoteBlog",
+    "remoteBlog/Welcome.md",
+    "LICENSE",
+    "remoteBlog/LICENSE",
+    "remoteBlog"
+  ]
+}
