@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBlog/example C++.md",
+                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "example C++"
+              "title": "what are smart pointers?"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBlog/example C++.md",
+                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for example C++"
+              "title": "Backlinks for what are smart pointers?"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBlog/example C++.md",
+                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from example C++"
+              "title": "Outgoing links from what are smart pointers?"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBlog/example C++.md",
+                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of example C++"
+              "title": "Outline of what are smart pointers?"
             }
           },
           {
@@ -215,14 +215,16 @@
   },
   "active": "ad73944ff466cd64",
   "lastOpenFiles": [
+    "Markdown Cheatsheet.md",
+    "remoteBlog/Smartpointers/what are smart pointers?.md",
+    "remoteBlog/example C++.md",
+    "remoteBlog/Smartpointers",
     "Smart Pointers/What are smart pointers?.md",
     "to do (cis 25).md",
     "Smart Pointers",
     "conflict-files-obsidian-git.md",
-    "remoteBlog/example C++.md",
     "remoteBlog/README.md",
     "remoteBlog~HEAD",
-    "Markdown Cheatsheet.md",
     "README.md",
     "Welcome.md",
     "2025-03-29.md",
