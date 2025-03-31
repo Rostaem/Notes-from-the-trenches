@@ -11,14 +11,12 @@
             "id": "ad73944ff466cd64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
-                "mode": "source",
-                "source": false
+                "file": "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png"
               },
-              "icon": "lucide-file",
-              "title": "what are smart pointers?"
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m."
             }
           }
         ]
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
+                "file": "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for what are smart pointers?"
+              "title": "Backlinks for Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m."
             }
           },
           {
@@ -131,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
+                "file": "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from what are smart pointers?"
+              "title": "Outgoing links from Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m."
             }
           },
           {
@@ -160,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBlog/Smartpointers/what are smart pointers?.md",
+                "file": "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of what are smart pointers?"
+              "title": "Outline of Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m."
             }
           },
           {
@@ -215,9 +213,14 @@
   },
   "active": "ad73944ff466cd64",
   "lastOpenFiles": [
-    "Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png",
-    "Markdown Cheatsheet.md",
     "remoteBlog/Smartpointers/what are smart pointers?.md",
+    "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.27.54 p.m..png",
+    "remoteBlog/images/Captura de pantalla 2025-03-30 a la(s) 8.15.13 p.m..png",
+    "images/Captura.md",
+    "images",
+    "images.md",
+    "remoteBlog/images",
+    "Markdown Cheatsheet.md",
     "remoteBlog/example C++.md",
     "remoteBlog/Smartpointers",
     "Smart Pointers/What are smart pointers?.md",
