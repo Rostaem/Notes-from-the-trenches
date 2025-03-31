@@ -4,4 +4,5 @@
 *think about memory*
 
 does it support color & images? 
-![this is a description](images/Captura de pantalla 2025-03-30 a la(s) 8.27.54 p.m)
+
+![this is a description](images/Captura%20de%20pantalla%202025-03-30%20a%20la(s)%208.35.24%20p.m..png)
